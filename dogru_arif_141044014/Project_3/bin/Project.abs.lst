@@ -1,0 +1,384 @@
+Decoder V-5.0.19 Build 10203, Jul 23 2010
+Options: -NoSym -Proc=HC12 -T
+Decoding File: 'C:\Users\Arif\Desktop\2016-2017 Bahar\Microprocessors\HW's\dogru_arif_141044014\Project_3\bin\Project.abs.s19'
+File format: S-Record
+
+S06C0000433A5C55736572735C417269665C4465736B746F705C323031362D323031372042616861725C4D6963726F70726F636573736F72735C485727735C646F6772755F617269665F3134313034343031345C50726F6A6563745F335C62696E5C50726F6A6563742E616273AB
+Type:     S0 (Header Block)
+Length:   0x6C
+Address:  0x0000
+Text:     C:\Users\Arif\Desktop\2016-2017 Bahar\Microprocessors\HW's\dogru_arif_141044014\Project_3\bin\Project.abs
+CheckSum: 0xAB
+
+S110120032302E3230202D20342E35303D7A
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x10
+Address:  0x1200
+Data:     0x1200   32 30 2E 32 30 20 2D 20  - 20.20 - 
+          0x1208   34 2E 35 30 3D           - 4.50=
+CheckSum: 0x7A
+
+S104220000D9
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x4
+Address:  0x2200
+Data:     0x2200   00                       - ?
+CheckSum: 0xD9
+
+S104250009CD
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x4
+Address:  0x2500
+Data:     0x2500   09                       - ?
+CheckSum: 0xCD
+
+S10425500A7C
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x4
+Address:  0x2550
+Data:     0x2550   0A                       - ?
+CheckSum: 0x7C
+
+S1234000CE120087A60008812B2769812D18270026812027EE813D182700E8812E182700AF
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4000
+Data:     0x4000   CE 12 00 87 A6 00 08 81  - ????????
+          0x4008   2B 27 69 81 2D 18 27 00  - +'i?-?'?
+          0x4010   26 81 20 27 EE 81 3D 18  - &? '??=?
+          0x4018   27 00 E8 81 2E 18 27 00  - '???.?'?
+CheckSum: 0xAF
+
+S12340208A8030CD22001640FB7A2200C60A7B25007A160006400386007A220087862D7A47
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4020
+Data:     0x4020   8A 80 30 CD 22 00 16 40  - ??0?"??@
+          0x4028   FB 7A 22 00 C6 0A 7B 25  - ?z"???{%
+          0x4030   00 7A 16 00 06 40 03 86  - ?z???@??
+          0x4038   00 7A 22 00 87 86 2D 7A  - ?z"???-z
+CheckSum: 0x47
+
+S1234040300087860A7A250087A60008813D182700B1812E1827007B812018270027803073
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4040
+Data:     0x4040   30 00 87 86 0A 7A 25 00  - 0????z%?
+          0x4048   87 A6 00 08 81 3D 18 27  - ?????=?'
+          0x4050   00 B1 81 2E 18 27 00 7B  - ???.?'?{
+          0x4058   81 20 18 27 00 27 80 30  - ? ?'?'?0
+CheckSum: 0x73
+
+S1234060CD22001640FB7A2200C60A7B25007A180006404886007A220087862B7A30008745
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4060
+Data:     0x4060   CD 22 00 16 40 FB 7A 22  - ?"??@?z"
+          0x4068   00 C6 0A 7B 25 00 7A 18  - ???{%?z?
+          0x4070   00 06 40 48 86 00 7A 22  - ??@H??z"
+          0x4078   00 87 86 2B 7A 30 00 87  - ???+z0??
+CheckSum: 0x45
+
+S1234080860A7A250087A60008813D2776812E2742812027F08030CD22001640FB7A220001
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4080
+Data:     0x4080   86 0A 7A 25 00 87 A6 00  - ??z%????
+          0x4088   08 81 3D 27 76 81 2E 27  - ??='v?.'
+          0x4090   42 81 20 27 F0 80 30 CD  - B? '??0?
+          0x4098   22 00 16 40 FB 7A 22 00  - "??@?z"?
+CheckSum: 0x1
+
+S12340A0C60A7B25007A1800064085C6097B250087A60080307A2550CD25501640FB7A22C5
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x40A0
+Data:     0x40A0   C6 0A 7B 25 00 7A 18 00  - ??{%?z??
+          0x40A8   06 40 85 C6 09 7B 25 00  - ?@???{%?
+          0x40B0   87 A6 00 80 30 7A 25 50  - ????0z%P
+          0x40B8   CD 25 50 16 40 FB 7A 22  - ?%P?@?z"
+CheckSum: 0xC5
+
+S12340C000F622000887A600803018067A165008064003C6097B250087A60080307A255055
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x40C0
+Data:     0x40C0   00 F6 22 00 08 87 A6 00  - ??"?????
+          0x40C8   80 30 18 06 7A 16 50 08  - ?0??z?P?
+          0x40D0   06 40 03 C6 09 7B 25 00  - ?@???{%?
+          0x40D8   87 A6 00 80 30 7A 25 50  - ????0z%P
+CheckSum: 0x55
+
+S12340E0CD25501640FB7A2200F622000887A600803018067A185008064003AB40732500BC
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x40E0
+Data:     0x40E0   CD 25 50 16 40 FB 7A 22  - ?%P?@?z"
+          0x40E8   00 F6 22 00 08 87 A6 00  - ??"?????
+          0x40F0   80 30 18 06 7A 18 50 08  - ?0??z?P?
+          0x40F8   06 40 03 AB 40 73 25 00  - ?@??@s%?
+CheckSum: 0xBC
+
+S123410026F93D87B63000812B2704812D2740B61650BB185080642A19C7F61600FB18009A
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4100
+Data:     0x4100   26 F9 3D 87 B6 30 00 81  - &?=??0??
+          0x4108   2B 27 04 81 2D 27 40 B6  - +'??-'@?
+          0x4110   16 50 BB 18 50 80 64 2A  - ?P??P?d*
+          0x4118   19 C7 F6 16 00 FB 18 00  - ????????
+CheckSum: 0x9A
+
+S123412025697B15008786FF5A038786555A0106419287B61600BB180025508B01254C7A4C
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4120
+Data:     0x4120   25 69 7B 15 00 87 86 FF  - %i{?????
+          0x4128   5A 03 87 86 55 5A 01 06  - Z???UZ??
+          0x4130   41 92 87 B6 16 00 BB 18  - A???????
+          0x4138   00 25 50 8B 01 25 4C 7A  - ?%P??%Lz
+CheckSum: 0x4C
+
+S12341401500C7C6FF5B038786555A01064192B61650B018502B19C7F61600F01800252B23
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4140
+Data:     0x4140   15 00 C7 C6 FF 5B 03 87  - ?????[??
+          0x4148   86 55 5A 01 06 41 92 B6  - ?UZ??A??
+          0x4150   16 50 B0 18 50 2B 19 C7  - ?P??P+??
+          0x4158   F6 16 00 F0 18 00 25 2B  - ??????%+
+CheckSum: 0x23
+
+S12341607B1500C7C6FF5B038786555A0106419287B61600B01800251280017A1500C7C63C
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x23
+Address:  0x4160
+Data:     0x4160   7B 15 00 C7 C6 FF 5B 03  - {?????[?
+          0x4168   87 86 55 5A 01 06 41 92  - ??UZ??A?
+          0x4170   87 B6 16 00 B0 18 00 25  - ???????%
+          0x4178   12 80 01 7A 15 00 C7 C6  - ???z????
+CheckSum: 0x3C
+
+S1154180FF5B038786555A010641928786FF5A035A0172
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x15
+Address:  0x4180
+Data:     0x4180   FF 5B 03 87 86 55 5A 01  - ?[???UZ?
+          0x4188   06 41 92 87 86 FF 5A 03  - ?A????Z?
+          0x4190   5A 01                    - Z?
+CheckSum: 0x72
+
+S105FFFE4000BD
+Type:     S1 (A record containing the 2-bytes address at which the code/data is to reside)
+Length:   0x5
+Address:  0xFFFE
+Data:     0xFFFE   40 00                    - @?
+CheckSum: 0xBD
+
+S9030000FC
+Type:     S9 (Termination record for a block of S1 records)
+Length:   0x3
+Address:  0x0000
+CheckSum: 0xFC
+
+Disassembly: 
+
+00001200 32           [3]    PULA  
+00001201 30           [3]    PULX  
+00001202 2E32         [3/1]  BGT   *+52       ;abs = $1236
+00001204 30           [3]    PULX  
+00001205 202D         [3]    BRA   *+47       ;abs = $1234
+00001207 2034         [3]    BRA   *+54       ;abs = $123D
+00001209 2E35         [3/1]  BGT   *+55       ;abs = $1240
+0000120B 30           [3]    PULX  
+0000120C 3D           [5]    RTS   
+
+00002200 00           [5]    BGND  
+
+00002500 09           [1]    DEX   
+
+00002550 0A           [7]    RTC   
+
+00004000 CE1200       [2]    LDX   #4608
+00004003 87           [1]    CLRA  
+00004004 A600         [3]    LDAA  0,X
+00004006 08           [1]    INX   
+00004007 812B         [1]    CMPA  #43
+00004009 2769         [3/1]  BEQ   *+107       ;abs = $4074
+0000400B 812D         [1]    CMPA  #45
+0000400D 18270026     [4/3]  LBEQ  *+42       ;abs = $4037
+00004011 8120         [1]    CMPA  #32
+00004013 27EE         [3/1]  BEQ   *-16       ;abs = $4003
+00004015 813D         [1]    CMPA  #61
+00004017 182700E8     [4/3]  LBEQ  *+236       ;abs = $4103
+0000401B 812E         [1]    CMPA  #46
+0000401D 1827008A     [4/3]  LBEQ  *+142       ;abs = $40AB
+00004021 8030         [1]    SUBA  #48
+00004023 CD2200       [2]    LDY   #8704
+00004026 1640FB       [4]    JSR   $40FB
+00004029 7A2200       [3]    STAA  $2200
+0000402C C60A         [1]    LDAB  #10
+0000402E 7B2500       [3]    STAB  $2500
+00004031 7A1600       [3]    STAA  $1600
+00004034 064003       [3]    JMP   $4003
+00004037 8600         [1]    LDAA  #0
+00004039 7A2200       [3]    STAA  $2200
+0000403C 87           [1]    CLRA  
+0000403D 862D         [1]    LDAA  #45
+0000403F 7A3000       [3]    STAA  $3000
+00004042 87           [1]    CLRA  
+00004043 860A         [1]    LDAA  #10
+00004045 7A2500       [3]    STAA  $2500
+00004048 87           [1]    CLRA  
+00004049 A600         [3]    LDAA  0,X
+0000404B 08           [1]    INX   
+0000404C 813D         [1]    CMPA  #61
+0000404E 182700B1     [4/3]  LBEQ  *+181       ;abs = $4103
+00004052 812E         [1]    CMPA  #46
+00004054 1827007B     [4/3]  LBEQ  *+127       ;abs = $40D3
+00004058 8120         [1]    CMPA  #32
+0000405A 18270027     [4/3]  LBEQ  *+43       ;abs = $4085
+0000405E 8030         [1]    SUBA  #48
+00004060 CD2200       [2]    LDY   #8704
+00004063 1640FB       [4]    JSR   $40FB
+00004066 7A2200       [3]    STAA  $2200
+00004069 C60A         [1]    LDAB  #10
+0000406B 7B2500       [3]    STAB  $2500
+0000406E 7A1800       [3]    STAA  $1800
+00004071 064048       [3]    JMP   $4048
+00004074 8600         [1]    LDAA  #0
+00004076 7A2200       [3]    STAA  $2200
+00004079 87           [1]    CLRA  
+0000407A 862B         [1]    LDAA  #43
+0000407C 7A3000       [3]    STAA  $3000
+0000407F 87           [1]    CLRA  
+00004080 860A         [1]    LDAA  #10
+00004082 7A2500       [3]    STAA  $2500
+00004085 87           [1]    CLRA  
+00004086 A600         [3]    LDAA  0,X
+00004088 08           [1]    INX   
+00004089 813D         [1]    CMPA  #61
+0000408B 2776         [3/1]  BEQ   *+120       ;abs = $4103
+0000408D 812E         [1]    CMPA  #46
+0000408F 2742         [3/1]  BEQ   *+68       ;abs = $40D3
+00004091 8120         [1]    CMPA  #32
+00004093 27F0         [3/1]  BEQ   *-14       ;abs = $4085
+00004095 8030         [1]    SUBA  #48
+00004097 CD2200       [2]    LDY   #8704
+0000409A 1640FB       [4]    JSR   $40FB
+0000409D 7A2200       [3]    STAA  $2200
+000040A0 C60A         [1]    LDAB  #10
+000040A2 7B2500       [3]    STAB  $2500
+000040A5 7A1800       [3]    STAA  $1800
+000040A8 064085       [3]    JMP   $4085
+000040AB C609         [1]    LDAB  #9
+000040AD 7B2500       [3]    STAB  $2500
+000040B0 87           [1]    CLRA  
+000040B1 A600         [3]    LDAA  0,X
+000040B3 8030         [1]    SUBA  #48
+000040B5 7A2550       [3]    STAA  $2550
+000040B8 CD2550       [2]    LDY   #9552
+000040BB 1640FB       [4]    JSR   $40FB
+000040BE 7A2200       [3]    STAA  $2200
+000040C1 F62200       [3]    LDAB  $2200
+000040C4 08           [1]    INX   
+000040C5 87           [1]    CLRA  
+000040C6 A600         [3]    LDAA  0,X
+000040C8 8030         [1]    SUBA  #48
+000040CA 1806         [2]    ABA   
+000040CC 7A1650       [3]    STAA  $1650
+000040CF 08           [1]    INX   
+000040D0 064003       [3]    JMP   $4003
+000040D3 C609         [1]    LDAB  #9
+000040D5 7B2500       [3]    STAB  $2500
+000040D8 87           [1]    CLRA  
+000040D9 A600         [3]    LDAA  0,X
+000040DB 8030         [1]    SUBA  #48
+000040DD 7A2550       [3]    STAA  $2550
+000040E0 CD2550       [2]    LDY   #9552
+000040E3 1640FB       [4]    JSR   $40FB
+000040E6 7A2200       [3]    STAA  $2200
+000040E9 F62200       [3]    LDAB  $2200
+000040EC 08           [1]    INX   
+000040ED 87           [1]    CLRA  
+000040EE A600         [3]    LDAA  0,X
+000040F0 8030         [1]    SUBA  #48
+000040F2 1806         [2]    ABA   
+000040F4 7A1850       [3]    STAA  $1850
+000040F7 08           [1]    INX   
+000040F8 064003       [3]    JMP   $4003
+000040FB AB40         [3]    ADDA  0,Y
+000040FD 732500       [4]    DEC   $2500
+00004100 26F9         [3/1]  BNE   *-5       ;abs = $40FB
+00004102 3D           [5]    RTS   
+00004103 87           [1]    CLRA  
+00004104 B63000       [3]    LDAA  $3000
+00004107 812B         [1]    CMPA  #43
+00004109 2704         [3/1]  BEQ   *+6       ;abs = $410F
+0000410B 812D         [1]    CMPA  #45
+0000410D 2740         [3/1]  BEQ   *+66       ;abs = $414F
+0000410F B61650       [3]    LDAA  $1650
+00004112 BB1850       [3]    ADDA  $1850
+00004115 8064         [1]    SUBA  #100
+00004117 2A19         [3/1]  BPL   *+27       ;abs = $4132
+00004119 C7           [1]    CLRB  
+0000411A F61600       [3]    LDAB  $1600
+0000411D FB1800       [3]    ADDB  $1800
+00004120 2569         [3/1]  BCS   *+107       ;abs = $418B
+00004122 7B1500       [3]    STAB  $1500
+00004125 87           [1]    CLRA  
+00004126 86FF         [1]    LDAA  #255
+00004128 5A03         [2]    STAA  $03
+0000412A 87           [1]    CLRA  
+0000412B 8655         [1]    LDAA  #85
+0000412D 5A01         [2]    STAA  $01
+0000412F 064192       [3]    JMP   $4192
+00004132 87           [1]    CLRA  
+00004133 B61600       [3]    LDAA  $1600
+00004136 BB1800       [3]    ADDA  $1800
+00004139 2550         [3/1]  BCS   *+82       ;abs = $418B
+0000413B 8B01         [1]    ADDA  #1
+0000413D 254C         [3/1]  BCS   *+78       ;abs = $418B
+0000413F 7A1500       [3]    STAA  $1500
+00004142 C7           [1]    CLRB  
+00004143 C6FF         [1]    LDAB  #255
+00004145 5B03         [2]    STAB  $03
+00004147 87           [1]    CLRA  
+00004148 8655         [1]    LDAA  #85
+0000414A 5A01         [2]    STAA  $01
+0000414C 064192       [3]    JMP   $4192
+0000414F B61650       [3]    LDAA  $1650
+00004152 B01850       [3]    SUBA  $1850
+00004155 2B19         [3/1]  BMI   *+27       ;abs = $4170
+00004157 C7           [1]    CLRB  
+00004158 F61600       [3]    LDAB  $1600
+0000415B F01800       [3]    SUBB  $1800
+0000415E 252B         [3/1]  BCS   *+45       ;abs = $418B
+00004160 7B1500       [3]    STAB  $1500
+00004163 C7           [1]    CLRB  
+00004164 C6FF         [1]    LDAB  #255
+00004166 5B03         [2]    STAB  $03
+00004168 87           [1]    CLRA  
+00004169 8655         [1]    LDAA  #85
+0000416B 5A01         [2]    STAA  $01
+0000416D 064192       [3]    JMP   $4192
+00004170 87           [1]    CLRA  
+00004171 B61600       [3]    LDAA  $1600
+00004174 B01800       [3]    SUBA  $1800
+00004177 2512         [3/1]  BCS   *+20       ;abs = $418B
+00004179 8001         [1]    SUBA  #1
+0000417B 7A1500       [3]    STAA  $1500
+0000417E C7           [1]    CLRB  
+0000417F C6FF         [1]    LDAB  #255
+00004181 5B03         [2]    STAB  $03
+00004183 87           [1]    CLRA  
+00004184 8655         [1]    LDAA  #85
+00004186 5A01         [2]    STAA  $01
+00004188 064192       [3]    JMP   $4192
+0000418B 87           [1]    CLRA  
+0000418C 86FF         [1]    LDAA  #255
+0000418E 5A03         [2]    STAA  $03
+00004190 5A01         [2]    STAA  $01
+
+0000FFFE 40           [1]    NEGA  
+0000FFFF 00           [5]    BGND  
